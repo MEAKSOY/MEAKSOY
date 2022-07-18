@@ -28,6 +28,6 @@
 
 ## 📈 Statistics
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=MEAKSOY&=vue_icons=true" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=MEAKSOY&theme=dark_icons=true" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com?user=MEAKSOY&theme=github-light&date_format=M%20j%5B%2C%20Y%5D" alt="my commit status" width="49%" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEAKSOY&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
