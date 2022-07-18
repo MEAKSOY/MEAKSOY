@@ -19,7 +19,7 @@
 <!--  <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" height="50"/> </a>  -->
 <!--  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/django_plain_logo_icon_146558.png" alt="django" height="70"/> </a>  -->
  <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="48"/> </a> 
- <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260916-8472f064-1a1e-4689-99f8-be5f4d5eac56.png" alt="gitHub" height="48"/> </a> 
+ <a href="#" target="_blank"> <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" alt="gitHub" height="48"/> </a> 
  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vs-code" height="48"/> </a>
  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258720-2a39e2f4-cb61-4b1a-9303-db050ffaa003.png" height="48"/> </a> 
  <a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="48"/> </a>
